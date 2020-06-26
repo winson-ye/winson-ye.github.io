@@ -79,7 +79,7 @@ const NextSection = ( {onMouseOver} ) => (
         GITHUB
       </h1>
     </a>
-    <a href="https://winson-ye.github.io/react-gh-pages/">
+    <a href="https://winson-ye.github.io/">
       <h1 style={Home} className={"button"}>
         HOME
       </h1>
