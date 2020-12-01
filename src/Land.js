@@ -84,12 +84,12 @@ const NextSection = ( {onMouseOver} ) => (
         HOME
       </h1>
     </a>
-    <a href="public/papers/HoTWoT_Chatbot_Survey.pdf">
+    <a href="/HoTWoT_Chatbot_Survey.pdf">
       <h1 style={Github} className={"button"}>
         CHATBOT SURVEY
       </h1>
     </a>
-    <a href="public/papers/EdgeSP_Chatbot_Security.pdf">
+    <a href="/EdgeSP_Chatbot_Security.pdf">
       <h1 style={Github} className={"button"}>
         CHATBOT SECURITY
       </h1>
